@@ -32,14 +32,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/stevenvelozo/orator-conversion.git"
+		"url": "git+https://github.com/fable-retold/orator-conversion.git"
 	},
 	"author": "steven velozo <steven@velozo.com>",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/stevenvelozo/orator-conversion/issues"
+		"url": "https://github.com/fable-retold/orator-conversion/issues"
 	},
-	"homepage": "https://github.com/stevenvelozo/orator-conversion#readme",
+	"homepage": "https://github.com/fable-retold/orator-conversion#readme",
 	"retoldBeacon": {
 		"displayName": "Orator Media Conversion",
 		"description": "Image/PDF/video/audio conversion actions exposed as an ultravisor-beacon capability.",

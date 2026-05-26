@@ -9,5 +9,5 @@
 - Configurable via options or Fable settings
 - Size-limited uploads for safety
 
-[GitHub](https://github.com/stevenvelozo/orator-conversion)
+[GitHub](https://github.com/fable-retold/orator-conversion)
 [Get Started](#orator-file-translation)

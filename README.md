@@ -1,6 +1,6 @@
 # Orator File Translation
 
-> **[&#9654; Read the Orator-Conversion Documentation](https://stevenvelozo.github.io/orator-conversion/)** &mdash; interactive docs with the full API reference.
+> **[&#9654; Read the Orator-Conversion Documentation](https://fable-retold.github.io/orator-conversion/)** &mdash; interactive docs with the full API reference.
 
 > File format conversion endpoints for Orator service servers
 
@@ -163,9 +163,9 @@ npx docsify-cli serve docs
 
 ## Related Packages
 
-- [orator](https://github.com/stevenvelozo/orator) - API server abstraction
-- [orator-serviceserver-restify](https://github.com/stevenvelozo/orator-serviceserver-restify) - Restify service server implementation
-- [fable](https://github.com/stevenvelozo/fable) - Application services framework
+- [orator](https://github.com/fable-retold/orator) - API server abstraction
+- [orator-serviceserver-restify](https://github.com/fable-retold/orator-serviceserver-restify) - Restify service server implementation
+- [fable](https://github.com/fable-retold/fable) - Application services framework
 
 ## License
 

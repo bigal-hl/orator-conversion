@@ -97,7 +97,7 @@
 	},
 	"dependencies": {
 		"fable-serviceproviderbase": "^3.0.19",
-		"retold-sharp": "^0.0.3",
+		"retold-sharp": "^1.0.0",
 		"ultravisor-beacon": "^0.0.15",
 		"ws": "^8.21.0"
 	},

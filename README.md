@@ -1,6 +1,6 @@
 # Orator File Translation
 
-> **[&#9654; Read the Orator-Conversion Documentation](https://fable-retold.github.io/orator-conversion/)** &mdash; interactive docs with the full API reference.
+> **[Read the Orator-Conversion Documentation](https://fable-retold.github.io/orator-conversion/)** - interactive docs with the full API reference.
 
 > File format conversion endpoints for Orator service servers
 
